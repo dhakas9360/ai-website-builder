@@ -1,12 +1,6 @@
 # ⚡ Bolt - Transform Ideas into Websites
 ![image](https://github.com/user-attachments/assets/4bf19b29-3563-4a17-a788-d857c92138c4)
 
-
-
-![Stars](https://img.shields.io/github/stars/PankajKumardev/Bolt-Clone?style=social)
-![Forks](https://img.shields.io/github/forks/PankajKumardev/Bolt-Clone?style=social)
-![Issues](https://img.shields.io/github/issues/PankajKumardev/Bolt-Clone)
-
 ---
 
 ## 🌟 Overview
@@ -157,9 +151,7 @@ See [`CHANGELOG.md`](https://github.com/PankajKumardev/bolt-Clone/blob/main/CHAN
 
 Have ideas, feedback, or want to collab?
 
-- Email: [pankajams1234@gmail.com](mailto:pankajams1234@gmail.com)
-- LinkedIn: [Pankaj Kumar](https://www.linkedin.com/in/pankajkumardev0/)
-- Twitter: [@pankajkumar_dev](https://x.com/pankajkumar_dev)
+- Email: [dhakaankit357@gmail.com](mailto:dhakaankit357@gmail.com)
 
 ---
 
